@@ -42,7 +42,6 @@ whisper-colab/
 ## ⚙️ How to Use
 
 1. **Open the Notebook** in Colab:
-   [Click here to open](https://colab.research.google.com/drive/11Yl9Oy6tTZ5OurxoY8LgYlizlEuhZzVw)
 
 2. **Upload Your Audio File** (`.mp3`, `.wav`)
 

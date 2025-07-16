@@ -6,7 +6,7 @@
 
 This repository contains a Colab notebook implementation of **OpenAI's Whisper model** for **automatic speech recognition (ASR)** and **speech translation**, powered by **Hugging Face Transformers**.
 
-👉 **[Open the Colab Notebook](https://colab.research.google.com/drive/11Yl9Oy6tTZ5OurxoY8LgYlizlEuhZzVw)**
+👉 **[Open Resource](https://huggingface.co/openai/whisper-large)**
 
 ---
 
